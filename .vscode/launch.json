@@ -30,7 +30,11 @@
     },
     {
       "name": "GDB",
-      
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${fileDirname}/${fileBasenameNoExtension}",
+      "cwd": "${workspaceFolder}",
+      "MIMode": "gbd"
     }
   ]
 }
