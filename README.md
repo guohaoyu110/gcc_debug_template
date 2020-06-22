@@ -1,6 +1,6 @@
 # gcc_debug_template
 
-A simple template to build and debug C++ fils in Visual Studio Code using gcc.
+A simple template to build and debug C++ files in Visual Studio Code using gcc.
 
 # Usage:
 
